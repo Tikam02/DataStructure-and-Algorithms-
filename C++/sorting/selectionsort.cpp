@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
 int i,j,n,loc, temp,min,a[30];
-cout<<"Enter the nuber of Elements :";
+cout<<"Enter the number of Elements :";
 cin>>n;
 cout<<"\nEnter the Elements\n";
 
