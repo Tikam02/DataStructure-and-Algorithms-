@@ -1,0 +1,39 @@
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp: In function 'int main()':
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:160:19: error: expected ')' before ';' token
+  insertFront(&head;,5);
+                   ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:160:20: error: expected primary-expression before ',' token
+  insertFront(&head;,5);
+                    ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:165:21: error: expected ')' before ';' token
+  if(deleteNode(&head;,ptrDelete))
+                     ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:165:21: error: expected ')' before ';' token
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:165:22: error: expected primary-expression before ',' token
+  if(deleteNode(&head;,ptrDelete))
+                      ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:170:15: error: expected ')' before ';' token
+  reverse(&head;);
+               ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:170:16: error: expected primary-expression before ')' token
+  reverse(&head;);
+                ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:174:30: error: expected ')' before ';' token
+  copyLinkedList(head,&newHead;);
+                              ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:174:31: error: expected primary-expression before ')' token
+  copyLinkedList(head,&newHead;);
+                               ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:187:24: error: expected ')' before ';' token
+  if(deleteNode(&newHead;,ptrDelete)) {
+                        ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:187:24: error: expected ')' before ';' token
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:187:25: error: expected primary-expression before ',' token
+  if(deleteNode(&newHead;,ptrDelete)) {
+                         ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:201:27: error: expected ')' before ';' token
+  deleteLinkedList(&newHead;);
+                           ^
+D:\web-storage\my_pages & projects #GITHUB-desktop\DataStructure-and-Algorithms-\C++\Linked-list\singly-linked-list.cpp:201:28: error: expected primary-expression before ')' token
+  deleteLinkedList(&newHead;);
+                            ^
